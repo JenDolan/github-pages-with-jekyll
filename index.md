@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Why are you here?  I'm just messing around with github.  Nothing cool to see here.  
